@@ -1,5 +1,5 @@
 require_relative '../say_hello'
 
 RSpec.configure do |config|
-  # kent beck
+  # config
 end
